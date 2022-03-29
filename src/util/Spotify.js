@@ -1,5 +1,5 @@
 const clientId = '0cd74313515742d5b27cd2bb9f8daffb';
-const redirectUri = 'http://localhost:3000/';
+const redirectUri = 'https://jammmingproject.herokuapp.com/';
  
 let accessToken;
  
